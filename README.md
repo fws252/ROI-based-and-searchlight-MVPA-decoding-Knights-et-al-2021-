@@ -1,4 +1,4 @@
-# ROI-based-and-searchlight-MVPA-decoding-Knights-et-al-2020-
+# ROI-based-and-searchlight-MVPA-decoding-Knights-et-al-2021-
 Knights E, Mansfield C, Tonin D, Saada J, Smith FW & Rossit S. (2021). Hand-selective visual regions represent how to grasp 3D tools: brain decoding during real actions. Journal of Neuroscience, 41, 5263-5273.
 
 # Description
